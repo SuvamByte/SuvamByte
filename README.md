@@ -2,6 +2,7 @@
 Hi, I’m Suvam Nayak.<br>I’m a Computer Science & Engineering student with a strong interest in Artificial Intelligence and Machine Learning. <br>I enjoy building intelligent systems, exploring data, and solving real-world problems through technology. <br>I’m constantly learning new tools and improving my problem-solving and programming skills.
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suvam-nayak-858083339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suvamnayak6514@gmail.com) 
 
